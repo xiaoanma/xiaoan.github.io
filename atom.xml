@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://blog.876776.xyz</id>
-    <title>安安安的博客网站</title>
-    <updated>2022-04-01T02:39:36.209Z</updated>
+    <title>安安安的博客</title>
+    <updated>2022-04-01T02:41:11.229Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://blog.876776.xyz"/>
     <link rel="self" href="https://blog.876776.xyz/atom.xml"/>
     <subtitle>温故而知新</subtitle>
     <logo>https://blog.876776.xyz/images/avatar.png</logo>
     <icon>https://blog.876776.xyz/favicon.ico</icon>
-    <rights>All rights reserved 2022, 安安安的博客网站</rights>
+    <rights>All rights reserved 2022, 安安安的博客</rights>
     <entry>
         <title type="html"><![CDATA[2月14不是愚人节吗？我怎么记得4月1是情人节。]]></title>
         <id>https://blog.876776.xyz/post/2-yue-14-bu-shi-yu-ren-jie-ma-wo-zen-me-ji-de-4-yue-1-shi-qing-ren-jie/</id>

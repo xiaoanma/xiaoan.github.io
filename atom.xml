@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://blog.876776.xyz</id>
     <title>安安安的博客</title>
-    <updated>2022-04-01T02:47:53.283Z</updated>
+    <updated>2022-04-17T11:54:51.596Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://blog.876776.xyz"/>
     <link rel="self" href="https://blog.876776.xyz/atom.xml"/>
@@ -10,6 +10,17 @@
     <logo>https://blog.876776.xyz/images/avatar.png</logo>
     <icon>https://blog.876776.xyz/favicon.ico</icon>
     <rights>All rights reserved 2022, 安安安的博客</rights>
+    <entry>
+        <title type="html"><![CDATA[三个基本常识：]]></title>
+        <id>https://blog.876776.xyz/post/san-ge-ji-ben-chang-shi/</id>
+        <link href="https://blog.876776.xyz/post/san-ge-ji-ben-chang-shi/">
+        </link>
+        <updated>2022-04-17T11:53:44.000Z</updated>
+        <content type="html"><![CDATA[<p>1.脾气好≠没有底线≠可以随便开玩笑</p>
+<p>2.脾气不好≠不近人情≠人不好</p>
+<p>3.表面上大大咧咧≠不在意≠不记仇</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2月14不是愚人节吗？我怎么记得4月1是情人节。]]></title>
         <id>https://blog.876776.xyz/post/2-yue-14-bu-shi-yu-ren-jie-ma-wo-zen-me-ji-de-4-yue-1-shi-qing-ren-jie/</id>
